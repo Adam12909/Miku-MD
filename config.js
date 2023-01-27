@@ -4,7 +4,7 @@ const chalk = require("chalk")
 global.available = true
 global.autoReadGc = true
 global.autoReadAll = false
-global.antitags = true
+global.antitags = false
 
 
 global.Owner = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
